@@ -1,0 +1,8 @@
+flags: {}
+extra-package-dbs: []
+packages:
+- '.'
+extra-deps:
+- ncurses-0.2.15
+- reactive-banana-1.1.0.0
+resolver: lts-5.12
